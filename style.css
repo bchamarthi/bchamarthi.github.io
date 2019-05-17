@@ -1,0 +1,100 @@
+/*font-family: 'Inconsolata', sans-serif;
+font-family: 'Text Me One', sans-serif;
+*/
+/* Add a black background color to the top navigation */
+.topnav {
+    background-color: black;
+    overflow: hidden;
+    font-family: 'Text Me One', sans-serif;
+}
+/* Style the links inside the navigation bar */
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+/* Change the color of links on hover */
+.topnav a:hover {
+    background-color: #55c7e1;
+    color: black;
+}
+/* Add a color to the active/current link */
+.topnav a.active {
+    background-color: #d05555;
+    color: white;
+}
+font-family: 'Text Me One', sans-serif;
+font-family: 'Kreon', serif;
+h1 {
+     font-family: 'Text Me One', sans-serif;
+     text-align: center;
+     font-size: 50px;
+}
+h2 {
+    font-family: 'Kreon', serif;
+     text-align: center;
+     font-size: 41px;
+}
+p {
+    font-family: 'Text Me One', sans-serif;
+     text-align: center;
+     font-size: 30px;
+}
+h3 {
+    font-family: 'Text Me One', sans-serif;
+     text-align: center;
+     font-size: 30px;
+ }
+h5 {
+    font-family: 'Text Me One', sans-serif;
+     text-align: center;
+     font-size: 30px;
+}
+label {
+    font-family: 'Kreon', serif;
+     text-align: left;
+     font-size: 25px;
+     margin-left: 300px
+
+}
+
+button {
+     font-family: 'Kreon', serif;
+     text-align: left;
+     font-size: 25px;
+     margin-left: 300px
+}
+
+legend {
+     font-family: 'Text Me One', sans-serif;
+     text-align: center;
+     font-size: 30px;
+     margin-left: 300px
+
+}
+
+label {
+     font-family: 'Text Me One', sans-serif;
+     font-size: 30px;
+      margin-left: 300px
+
+}
+
+input type = checkbox {
+      margin-left: 150px
+
+}
+
+
+html,
+body {
+  margin: 50;
+  padding: 10;
+}
+
+/*font-family: 'Inconsolata', sans-serif;
+font-family: 'Text Me One', sans-serif;
+*/
